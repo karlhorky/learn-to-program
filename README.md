@@ -6,7 +6,7 @@ This list aims to be a curated set of high quality educational resources. The co
 
 ## Beginner
 
-### [Mozilla Webmaker](https://webmaker.org/)
+#### [Mozilla Webmaker](https://webmaker.org/)
 **Free** community and toolset to learn to create web pages and apps *(HTML, CSS, JavaScript?)*
 
 ### [Codecademy](http://www.codecademy.com/)
