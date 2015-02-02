@@ -15,7 +15,7 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 **Free** interactive 1-hour course to learn the very basics of web development *(HTML, CSS, JavaScript, SQL)*
 
-#### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100) (<- first month free)
+#### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
 **Commercial** platform for courses how to build websites & apps *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
 
 #### [Learn CSS Layout](http://learnlayout.com/)
