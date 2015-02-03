@@ -109,6 +109,9 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** practice problems in Python and Java  
 *(Python, Java)*
 
+#### [Codewars](http://www.codewars.com/)
+**Free** code challenges. Compare your solution with those of others
+*(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell)*
 
 ## Advanced
 
