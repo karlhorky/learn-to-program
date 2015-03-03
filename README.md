@@ -133,5 +133,5 @@ This list aims to be a curated set of high quality educational resources. The co
 *(programming, machine learning)*
 
 #### [HackerRank](https://www.hackerrank.com/)
-Programming challenges with leaderboard. Used by various tech companies to hire engineers.  
-*(various languages and topics, C, C++, Haskell, Bash, ...)*
+**Mixed** Programming challenges with leaderboard. Used by various tech companies to hire engineers.  
+*(Artificial Intelligence, Algorithms, Functional Programming, Code Golf, Machine Learning)*
