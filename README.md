@@ -134,4 +134,4 @@ This list aims to be a curated set of high quality educational resources. The co
 
 #### [HackerRank](https://www.hackerrank.com/)
 **Free** programming challenges and contests  
-*(Artificial Intelligence, Algorithms, Functional Programming, Code Golf, Machine Learning)*
+*(artificial intelligence, algorithms, functional programming, machine learning)*
