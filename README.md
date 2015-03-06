@@ -131,3 +131,7 @@ This list aims to be a curated set of high quality educational resources. The co
 #### Metacademy [Roadmaps](http://metacademy.org/roadmaps/), [Course Guides](http://metacademy.org/course_guides/)
 **Free** graphs of interconnected topics required to master concepts  
 *(programming, machine learning)*
+
+#### [HackerRank](https://www.hackerrank.com/)
+**Free** programming challenges and contests  
+*(Artificial Intelligence, Algorithms, Functional Programming, Code Golf, Machine Learning)*
