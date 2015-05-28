@@ -51,6 +51,9 @@ This list aims to be a curated set of high quality educational resources. The co
 **Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.  
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
 
+#### [Platzi](https://courses.platzi.com/)
+**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.
+*(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
 
 ## Intermediate
 
