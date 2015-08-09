@@ -138,3 +138,9 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [HackerRank](https://www.hackerrank.com/)
 **Free** programming challenges and contests  
 *(artificial intelligence, algorithms, functional programming, machine learning)*
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has waived all copyright and related or neighboring rights to this work.
