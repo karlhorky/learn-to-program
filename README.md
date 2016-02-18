@@ -52,7 +52,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
 
 #### [Platzi](https://courses.platzi.com/)
-**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.
+**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.  
 *(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
 
 ## Intermediate
