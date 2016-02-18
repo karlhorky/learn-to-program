@@ -7,10 +7,6 @@ This list aims to be a curated set of high quality educational resources. The co
 
 ## Beginner
 
-#### [Vertabelo Academy](https://academy.vertabelo.com/)
-**Free** SQL courses with interactive exercises and quizes 
-*(SQL, database concepts)*
-
 #### [Mozilla Webmaker](https://webmaker.org/)
 **Free** community and toolset to learn to create web pages and apps  
 *(HTML, CSS, JavaScript?)*
@@ -58,6 +54,10 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [Platzi](https://courses.platzi.com/)
 **Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.  
 *(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
+
+#### [Vertabelo Academy](https://academy.vertabelo.com/)
+**Free** SQL courses with interactive exercises and quizzes  
+*(SQL, database concepts)*
 
 ## Intermediate
 
