@@ -147,6 +147,18 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** programming challenges and contests  
 *(artificial intelligence, algorithms, functional programming, machine learning)*
 
+#### [HackerEarth](https://www.hackerearth.com/)
+**Free** programming challenges, hackathons and contests  
+*(dynamic programming,artificial intelligence, algorithms, functional programming, machine learning)*
+
+#### [Project Euler](https://projecteuler.net/)
+**Free** mathematical/computer programming problems  
+*(programming, mathematics)*
+
+#### [CodeFights](https://codefights.com/)
+**Free** programming challenges              
+*(Java, C++, Python, Javascript, Ruby, C#, PHP and Perl)*
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
