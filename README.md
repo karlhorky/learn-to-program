@@ -126,7 +126,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
 #### [CodinGame](https://www.codingame.com/)
-**Free** Learn to code and game at the same time.
+**Free** Learn to code and game at the same time.  
 *(C#, C++, Java, Javascript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
 ## Advanced
