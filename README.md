@@ -63,6 +63,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** SQL courses with interactive exercises and quizzes  
 *(SQL, database concepts)*
 
+#### [GitHub On-Demand Training](https://services.github.com/on-demand/)
+**Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.
+*(Git, GitHub)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
