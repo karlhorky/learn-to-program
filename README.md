@@ -63,6 +63,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** SQL courses with interactive exercises and quizzes  
 *(SQL, database concepts)*
 
+#### [Codementor](https://www.codementor.io/classes) 
+**Mixed** directory of **live** classes, video courses and turtorials for programming. Some courses may be more suitable for intermediate coders. Also provides online 1:1 instant coding help from experts.
+*(JavaScript, React.js, Angular 1 & 2, Node.js, Git & Github, Python) 
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
