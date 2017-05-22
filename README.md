@@ -147,6 +147,11 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** university-level courses scoured from around the internet.  
 *(varied and extensive computer science topics, ...)*
 
+#### [dreamtocode/awesome-resources](https://github.com/dreamtocode/awesome-resources/blob/master/README.md)
+**Free** Awesome coding and learning resources for everyone.
+*(everything from introduction to advanced computer science topics, ...)*
+
+
 #### Metacademy [Roadmaps](http://metacademy.org/roadmaps/), [Course Guides](http://metacademy.org/course_guides/)
 **Free** graphs of interconnected topics required to master concepts  
 *(programming, machine learning)*
