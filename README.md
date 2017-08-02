@@ -134,7 +134,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(C#, C++, Java, Javascript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
 #### [Paqmind](http://paqmind.com)
-**Free** Guides and challenges to learn and improve in programming.  
+**Free** Quiz your knowledge of programming.  
 *(JavaScript, Node.js, functional programming)*
 
 ## Advanced
