@@ -66,6 +66,9 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [GitHub On-Demand Training](https://services.github.com/on-demand/)
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.  
 *(Git, GitHub)*
+#### [Css grid garden](http://cssgridgarden.com/)
+**Free** game that teachs the css grid system created by thomaspark
+*(Css)*
 
 ## Intermediate
 
