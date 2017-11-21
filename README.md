@@ -67,6 +67,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.  
 *(Git, GitHub)*
 
+#### [Code The Web](https://codetheweb.blog)
+**Free** tutorials to learn web development (right from the start and getting your computer set up)
+*(HTML, CSS, [JavaScript coming soon] )*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
