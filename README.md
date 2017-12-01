@@ -59,6 +59,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.  
 *(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
 
+#### [w3schools](https://www.w3schools.com/)
+**Free** beginner and intermediate guides on web development.  
+*(HTML, CSS, JavaScript, AngularJS, Bootstrap, PHP, SQL, ASP, Node.js, Rapsberry Pi)*
+
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **Free** SQL courses with interactive exercises and quizzes  
 *(SQL, database concepts)*
