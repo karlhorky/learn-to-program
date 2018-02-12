@@ -15,6 +15,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** platform for learning to code in web technologies  
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
 
+#### [Hackr.io](https://hackr.io/tutorials/learn-css)
+**Curated** resources for learning web development  
+*(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
+
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 **Free** interactive 1-hour course to learn the very basics of web development  
 *(HTML, CSS, JavaScript, SQL)*
