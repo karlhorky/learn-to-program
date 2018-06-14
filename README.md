@@ -67,6 +67,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.  
 *(Git, GitHub)*
 
+#### [Code Combat](https://codecombat.com/)
+**Freemium** platform for game-based learning, learn to program in a RPG adventure!  
+*(Javascript, Python, Lua, Coffescript?)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
