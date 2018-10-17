@@ -133,6 +133,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Learn to code and game at the same time.  
 *(C#, C++, Java, Javascript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
+#### [1MWTT](https://github.com/1millionwomentotech)
+**Free** programming courses and hackathons for beginners, intermediate and advanced levels
+*(Python, JavaSript, Data Science, artificial intelligence, machine learning, AR & VR)*
+
 ## Advanced
 
 #### [MIT Courseware](http://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
