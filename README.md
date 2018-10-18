@@ -133,7 +133,7 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Learn to code and game at the same time.\
 *(C#, C++, Java, Javascript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
-#### [1MWTT](https://github.com/1millionwomentotech)
+#### [1 Million Women To Tech Summer of Code](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
 
