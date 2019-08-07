@@ -67,6 +67,14 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
 
+#### [Programming Historian](https://programminghistorian.org/)
+**Free** Peer reviewed introductory courses for digital humanists.\
+*(Python, R, HTML, Digital Humanities)*
+
+#### [Carpentries](https://carpentries.org/)
+**FREE** Foundational coding and data science skills for researchers
+*(Python, R, OpenRefine, Unix Shell, Git)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
