@@ -69,10 +69,10 @@ This list aims to be a curated set of high quality educational resources. The co
 
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 **Free** Peer reviewed introductory courses for digital humanists.\
-*(Python, R, HTML, Digital Humanities)*
+*(Python, R, Unity, QGIS, HTML, Regular Expressions)*
 
-#### [Software Carpentries](https://software-carpentry.org/lessons/)
-**FREE** Foundational coding and data science skills for researchers
+#### [Software Carpentry](https://software-carpentry.org/lessons/)
+**Free** Foundational coding and data science skills for researchers.\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
 ## Intermediate
