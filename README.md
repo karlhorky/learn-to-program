@@ -67,6 +67,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
 
+#### [Hexlet.io](https://en.hexlet.io)
+**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.  
+*(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
+
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 **Free** Peer reviewed introductory courses for digital humanists.\
 *(Python, R, Unity, QGIS, HTML, Regular Expressions)*
