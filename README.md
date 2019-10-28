@@ -15,6 +15,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** platform for learning to code in web technologies\
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
 
+#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
+**Free** teaches programming in Java by creating small applications built step by step\
+*(Java, OOP, Gradle, Maven, Spring Boot)*
+
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
 **Free** interactive 1-hour course to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
