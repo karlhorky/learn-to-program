@@ -79,6 +79,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Foundational coding and data science skills for researchers.\
 *(Python, R, OpenRefine, Unix Shell, Git)*
 
+#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
+**Free** teaches programming in Java by creating small applications built step by step\
+*(Java, OOP, Gradle, Maven, Spring Boot)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
