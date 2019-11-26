@@ -145,6 +145,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
 
+#### [WesBos](https://wesbos.com/courses/)
+**Mixed** A series of courses that are centered around JavaScript, CSS3, and HTML5. 
+*(Javascript, CSS, ReactJS, NodeJS, GraphQL, Redux)*
+ 
 ## Advanced
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
