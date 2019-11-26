@@ -151,8 +151,12 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** courses from MIT on advanced computer science topics\
 *(varied and extensive computer science topics, C, C++, ..)*
 
+#### [EDX](https://www.edx.org/course/subject/computer-science)
+**Free** courses from Harvard, MIT, and other universities\
+*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
+
 #### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
-**Free** platform for courses from the top universities and organizations worldwide\
+**Free** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
 #### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
