@@ -163,7 +163,7 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** platform for courses from universities and organizations worldwide\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-#### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*
 
