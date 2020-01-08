@@ -71,6 +71,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
 
+#### [Grid Garden](https://cssgridgarden.com/)
+**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)
+*(CSS)*
+
 #### [Hexlet.io](https://en.hexlet.io)
 **Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.  
 *(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
