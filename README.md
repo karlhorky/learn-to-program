@@ -159,6 +159,11 @@ This list aims to be a curated set of high quality educational resources. The co
  
 ## Advanced
 
+
+#### [Paqmind](http://paqmind.com)
+**Free** Quiz your knowledge of programming\
+*(JavaScript, Node.js, React, functional programming)*
+
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 **Free** courses from MIT on advanced computer science topics\
 *(varied and extensive computer science topics, C, C++, ..)*
