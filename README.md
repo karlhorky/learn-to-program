@@ -72,7 +72,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(Git, GitHub)*
 
 #### [Grid Garden](https://cssgridgarden.com/)
-**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)
+**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
 *(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
