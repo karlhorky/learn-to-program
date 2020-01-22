@@ -102,7 +102,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript, data science, Python, computer science topics)*
 
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
-**Free** *(book only)* book and course for beginner through intermediate Python programming\
+**Freemium** *(book only)* book and course for beginner through intermediate Python programming\
 *(Python, object-oriented programming, web development)*
 
 #### [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
