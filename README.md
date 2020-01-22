@@ -3,7 +3,7 @@
 
 The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.
 
-This list aims to be a curated set of high quality educational resources. The cost of the platform is highlighted along with the primary topics covered.
+This list aims to be a curated set of high quality educational resources. The availability of free content on the platform is highlighted along with the primary topics covered.
 
 ## Beginner
 
@@ -24,7 +24,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript)*
 
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
-**Commercial** platform for courses how to build websites & apps\
+**Paid** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
 
 #### [Learn CSS Layout](https://learnlayout.com/)
@@ -102,7 +102,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript, data science, Python, computer science topics)*
 
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
-**Freemium** *(book only)* book and course for beginner through intermediate Python programming\
+**Paid** book and course for beginner through intermediate Python programming\
 *(Python, object-oriented programming, web development)*
 
 #### [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -114,7 +114,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript, programming fundamentals, system administration, ...)*
 
 #### [Thinkful](https://www.thinkful.com/)
-**Commercial** platform for mentored web and mobile development courses from industry experts\
+**Paid** platform for mentored web and mobile development courses from industry experts\
 *(web development, frontend web development, AngularJS, Android, iOS)*
 
 #### [exercism.io](https://exercism.io/)
@@ -130,7 +130,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(programming, startups, iOS)*
 
 #### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
-**Commercial** platform for web development courses\
+**Paid** platform for web development courses\
 *(JavaScript, AngularJS, Java)*
 
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
