@@ -91,6 +91,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+**Free** Teaches graphics programming by implementing, step by step, different shading techniques used in video games.
+*(C++, GLSL, Real-time Graphics Programming, Game Development)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
