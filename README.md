@@ -23,7 +23,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Freemium** platform for learning the basics of web development\
 *(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
 
-#### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
+#### [Treehouse](https://teamtreehouse.com/)
 **Paid** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
 
