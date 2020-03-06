@@ -47,10 +47,6 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
 
-#### [Gibbon](https://gibbon.co/topics/programming)
-**Mixed** curated learning tracks for computer programming\
-*(web development, JavaScript, AngularJS, Ruby, Rails, iOS, Haskell, computer science)*
-
 #### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
 **Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
