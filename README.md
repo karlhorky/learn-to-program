@@ -87,6 +87,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [Intro to Programming by workat.tech](https://workat.tech/courses/intro-to-programming-in-c-c++-ouv5e6upwyde)
+**Free** Beginner-friendly interactive course with content, quizzes and coding problems\
+*(C, C++, programming)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
