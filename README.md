@@ -57,7 +57,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [Free Code Camp](https://www.freecodecamp.org/)
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
-*(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
+*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **Free** SQL courses with interactive exercises and quizzes\
@@ -186,7 +186,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [HackerEarth](https://www.hackerearth.com/)
 **Free** programming challenges, hackathons and contests\
-*(dynamic programming,artificial intelligence, algorithms, functional programming, machine learning)*
+*(dynamic programming, artificial intelligence, algorithms, functional programming, machine learning)*
 
 #### [Project Euler](https://projecteuler.net/)
 **Free** mathematical/computer programming problems\
@@ -204,4 +204,4 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ## Contributing
 
-In lieu of a formal styleguide, take care to maintain the existing style of this list.
+In lieu of a formal style guide, take care to maintain the existing style of this list.
