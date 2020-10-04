@@ -117,10 +117,6 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
 
-#### [University of Reddit](http://ureddit.com/category/23442/computer-science)
-**Free** crowdsourced list of videos and courses for learning programming and web development\
-*(HTML, CSS, JavaScript, Java, Haskell, Python)*
-
 #### [Stanford on iTunes U](https://itunes.stanford.edu/)
 **Free** programming and mobile development courses on iTunes from Stanford University\
 *(programming, startups, iOS)*
