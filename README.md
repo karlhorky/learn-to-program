@@ -87,6 +87,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [One Month](https://onemonth.com/)
+**Paid** courses for learning in just one month\
+*(Programming for Non-Programmers, HTML & CSS, JavaScript, SQL, Python)
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
@@ -149,8 +153,11 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
  
-## Advanced
+#### [Frontend Masters](https://frontendmasters.com/)
+**Paid** advance your skills with in-depth, modern front-end engineering courses\
+*(JavaScript, CSS, Node.js, React.js, Vue.js, Angular, Webpack, Data Visualization with D3.js, Async JS & Rx.js)*
 
+## Advanced
 
 #### [Paqmind](http://paqmind.com)
 **Free** Quiz your knowledge of programming\
