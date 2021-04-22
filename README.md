@@ -148,7 +148,11 @@ This list aims to be a curated set of high quality educational resources. The av
 #### [Wes Bos](https://wesbos.com/courses/)
 **Mixed** guided video courses to build products using new technologies\
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
- 
+
+#### [DevProjects] (https://www.codementor.io/projects)
+**Free** community of curated projects designed to bridge the gap between theory and real world code\
+*(JavaScript, React, HTML/CSS, Python, Node.js, AngularJS, PHP, mobile app, automation)*
+
 ## Advanced
 
 
