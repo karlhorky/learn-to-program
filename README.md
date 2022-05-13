@@ -3,7 +3,7 @@
 
 The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.
 
-This list aims to be a curated set of high quality educational resources. The cost of the platform is highlighted along with the primary topics covered.
+This list aims to be a curated set of high quality educational resources. The availability of free content on the platform is highlighted along with the primary topics covered.
 
 ## Beginner
 
@@ -19,8 +19,12 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** interactive 1-hour course to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 
-#### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
-**Commercial** platform for courses how to build websites & apps\
+#### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
+**Freemium** platform for learning the basics of web development\
+*(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
+
+#### [Treehouse](https://teamtreehouse.com/)
+**Paid** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
 
 #### [Learn CSS Layout](https://learnlayout.com/)
@@ -43,10 +47,6 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
 
-#### [Gibbon](https://gibbon.co/topics/programming)
-**Mixed** curated learning tracks for computer programming\
-*(web development, JavaScript, AngularJS, Ruby, Rails, iOS, Haskell, computer science)*
-
 #### Degreed [Web Development](https://degreed.com/learning/web%20development), [Programming](https://degreed.com/learning/programming)
 **Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
@@ -57,7 +57,7 @@ This list aims to be a curated set of high quality educational resources. The co
 
 #### [Free Code Camp](https://www.freecodecamp.org/)
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
-*(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
+*(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **Free** SQL courses with interactive exercises and quizzes\
@@ -66,6 +66,10 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [GitHub Learning Lab](https://lab.github.com/)
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
+
+#### [Grid Garden](https://cssgridgarden.com/)
+**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
 **Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.  
@@ -94,7 +98,7 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript, data science, Python, computer science topics)*
 
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
-**Free** *(book only)* book and course for beginner through intermediate Python programming\
+**Paid** book and course for beginner through intermediate Python programming\
 *(Python, object-oriented programming, web development)*
 
 #### [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
@@ -106,23 +110,19 @@ This list aims to be a curated set of high quality educational resources. The co
 *(HTML, CSS, JavaScript, programming fundamentals, system administration, ...)*
 
 #### [Thinkful](https://www.thinkful.com/)
-**Commercial** platform for mentored web and mobile development courses from industry experts\
+**Paid** platform for mentored web and mobile development courses from industry experts\
 *(web development, frontend web development, AngularJS, Android, iOS)*
 
 #### [exercism.io](https://exercism.io/)
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
 
-#### [University of Reddit](http://ureddit.com/category/23442/computer-science)
-**Free** crowdsourced list of videos and courses for learning programming and web development\
-*(HTML, CSS, JavaScript, Java, Haskell, Python)*
-
 #### [Stanford on iTunes U](https://itunes.stanford.edu/)
 **Free** programming and mobile development courses on iTunes from Stanford University\
 *(programming, startups, iOS)*
 
 #### [PluralSight](https://www.pluralsight.com/tag/developer?pageSize=48&sort=popular)
-**Commercial** platform for web development courses\
+**Paid** platform for web development courses\
 *(JavaScript, AngularJS, Java)*
 
 #### [CodeChef Problems](https://www.codechef.com/problems/easy/)
@@ -139,7 +139,7 @@ This list aims to be a curated set of high quality educational resources. The co
 
 #### [CodinGame](https://www.codingame.com/)
 **Free** Learn to code and game at the same time.\
-*(C#, C++, Java, Javascript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
+*(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
 #### [1 Million Women To Tech Summer of Code](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
 **Free** programming course material for beginner, intermediate and advanced levels\
@@ -150,6 +150,11 @@ This list aims to be a curated set of high quality educational resources. The co
 *(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
  
 ## Advanced
+
+
+#### [Paqmind](http://paqmind.com)
+**Free** Quiz your knowledge of programming\
+*(JavaScript, Node.js, React, functional programming)*
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 **Free** courses from MIT on advanced computer science topics\
@@ -177,7 +182,7 @@ This list aims to be a curated set of high quality educational resources. The co
 
 #### [HackerEarth](https://www.hackerearth.com/)
 **Free** programming challenges, hackathons and contests\
-*(dynamic programming,artificial intelligence, algorithms, functional programming, machine learning)*
+*(dynamic programming, artificial intelligence, algorithms, functional programming, machine learning)*
 
 #### [Project Euler](https://projecteuler.net/)
 **Free** mathematical/computer programming problems\
@@ -185,7 +190,7 @@ This list aims to be a curated set of high quality educational resources. The co
 
 #### [CodeSignal](https://codesignal.com/)
 **Free** programming challenges\
-*(Java, C++, Python, Javascript, Ruby, C#, PHP and Perl)*
+*(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
 
 ## License
 
@@ -195,4 +200,4 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 
 ## Contributing
 
-In lieu of a formal styleguide, take care to maintain the existing style of this list.
+In lieu of a formal style guide, take care to maintain the existing style of this list.
