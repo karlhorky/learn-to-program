@@ -105,7 +105,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** online book covering all stages of creating a Ruby on Rails application\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
-#### Lynda.com [Developer](https://www.lynda.com/Developer-training-tutorials/50-0.html), [Web](https://www.lynda.com/Web-training-tutorials/88-0.html), [IT](https://www.lynda.com/IT-training-tutorials/2057-0.html)
+#### Lynda.com [Developer]([https://www.lynda.com/Developer-training-tutorials/50-0.html]([https://www.linkedin.com/learning/?u=56684793)](https://www.linkedin.com/learning/?u=56684793)), [Web]([https://www.lynda.com/Web-training-tutorials/88-0.html), [IT](https://www.lynda.com/IT-training-tutorials/2057-0.html](https://www.linkedin.com/learning/?u=56684793))
 **Freemium** platform for video courses on web development and intermediate programming\
 *(HTML, CSS, JavaScript, programming fundamentals, system administration, ...)*
 
