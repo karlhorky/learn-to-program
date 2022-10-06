@@ -87,6 +87,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
+**Free** an approachable introduction to Assembly and the lowest levels of your computer.\
+*(Assembly)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
