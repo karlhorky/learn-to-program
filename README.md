@@ -7,10 +7,6 @@ This list aims to be a curated set of high quality educational resources. The av
 
 ## Beginner
 
-#### [Mozilla Webmaker](https://webmaker.org/)
-**Free** community and toolset to learn to create web pages and apps\
-*(HTML, CSS, JavaScript?)*
-
 #### [Codecademy](https://www.codecademy.com/)
 **Free** platform for learning to code in web technologies\
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
