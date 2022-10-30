@@ -83,6 +83,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
 
+#### [Cratecode](https://cratecode.com/)
+**Free** online platform that teaches programming through interactive lessons\
+*(JavaScript, TypeScript, HTML, p5.js, Backend Web Development)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
