@@ -48,7 +48,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
 
 #### [Platzi](https://courses.platzi.com/)
-**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.\
+**Paid** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web. Offers free Basic Programming Course and Personal Branding Course. Courses offered in spanish and portuguese.\
 *(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
 
 #### [Free Code Camp](https://www.freecodecamp.org/)
