@@ -47,10 +47,6 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
 
-#### [Platzi](https://courses.platzi.com/)
-**Paid** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web. Offers free Basic Programming Course and Personal Branding Course. Courses offered in spanish and portuguese.\
-*(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
-
 #### [Free Code Camp](https://www.freecodecamp.org/)
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
