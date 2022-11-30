@@ -188,6 +188,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** programming challenges\
 *(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
 
+#### [Code Basics](https://code-basics.com/)
+**Free** online courses with practice in the browser in English and Russian\
+*(Java Script, C, PHP, HTML, CSS, Ruby, C#, Clojure, Elexir, Python, Java)*
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
