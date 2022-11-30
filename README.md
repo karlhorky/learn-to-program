@@ -67,6 +67,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.  
 *(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
 
+#### [Code Basics](https://code-basics.com/)
+**Free** online courses with practice in the browser in English and Russian\
+*(Java Script, C, PHP, HTML, CSS, Ruby, C#, Clojure, Elexir, Python, Java)*
+
 #### [Programming Historian](https://programminghistorian.org/en/lessons/)
 **Free** Peer reviewed introductory courses for digital humanists.\
 *(Python, R, Unity, QGIS, HTML, Regular Expressions)*
@@ -187,10 +191,6 @@ This list aims to be a curated set of high quality educational resources. The av
 #### [CodeSignal](https://codesignal.com/)
 **Free** programming challenges\
 *(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
-
-#### [Code Basics](https://code-basics.com/)
-**Free** online courses with practice in the browser in English and Russian\
-*(Java Script, C, PHP, HTML, CSS, Ruby, C#, Clojure, Elexir, Python, Java)*
 
 ## License
 
