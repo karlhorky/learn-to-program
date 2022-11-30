@@ -133,6 +133,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** code challenges. Compare your solution with those of others.\
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
+#### [Code Battle](https://codebattle.hexlet.io/)
+**Free** game for developers. It's very simple: solve the coding challenge faster than your opponent using your like language.\
+*(JavaScript, Ruby, Python, Clojure, Haskell, Java, Type Script, Go, Elexir, C#, PHP, Erlang, C++)*
+
 #### [CodinGame](https://www.codingame.com/)
 **Free** Learn to code and game at the same time.\
 *(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
