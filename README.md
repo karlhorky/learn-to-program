@@ -7,6 +7,10 @@ This list aims to be a curated set of high quality educational resources. The av
 
 ## Beginner
 
+#### [Code Basics](https://code-basics.com/)
+**Free** platform for learning the basics of programming through interactive courses with practice\
+*(HTML, CSS, JavaScript, Python, Ruby, Rails, PHP, Java, Racket, Elixir, Go...)*
+
 #### [Codecademy](https://www.codecademy.com/)
 **Free** platform for learning to code in web technologies\
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP)*
