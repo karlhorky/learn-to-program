@@ -47,10 +47,6 @@ This list aims to be a curated set of high quality educational resources. The av
 **Mixed** directory of courses, videos and other learning resources for web development and programming. Quality may vary.\
 *(HTML, CSS, JavaScript, AngularJS, Rails)*
 
-#### [Platzi](https://courses.platzi.com/)
-**Free** Platform for classes on Design, Marketing, Startup and Code. Learn the future of the web.\
-*(RethinkDB, SailsJs, NodeJS, Git, Startup Class, etc)*
-
 #### [Free Code Camp](https://www.freecodecamp.org/)
 **Free** Learn to code and help nonprofits. An open source community of people who learn to code and help nonprofits.\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
@@ -82,6 +78,10 @@ This list aims to be a curated set of high quality educational resources. The av
 #### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
 **Free** teaches programming in Java by creating small applications built step by step\
 *(Java, OOP, Gradle, Maven, Spring Boot)*
+
+#### [Cratecode](https://cratecode.com/)
+**Free** online platform that teaches programming through interactive lessons\
+*(JavaScript, TypeScript, HTML, p5.js, Backend Web Development)*
 
 ## Intermediate
 
