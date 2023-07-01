@@ -15,6 +15,10 @@ This list aims to be a curated set of high-quality educational resources. The av
 **Free** Interactive one-hour courses to learn the very basics of web development.\
 *(HTML, CSS, JavaScript, SQL)*
 
+#### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
+**Freemium** platform for learning the basics of web development\
+*(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
+
 #### [Treehouse](https://teamtreehouse.com/)
 **Paid** Interactive online coding classes for at-home learning\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
