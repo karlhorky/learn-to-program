@@ -20,8 +20,12 @@ This list aims to be a curated set of high quality educational resources. The av
 *(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
 
 #### [Treehouse](https://teamtreehouse.com/)
-**Paid** Interactive online coding classes for at-home learning\
+**Paid** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
+
+#### [Learn CSS Layout](https://learnlayout.com/)
+**Free** tutorial for how to do layout with CSS\
+*(CSS)*
 
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
 **Freemium** Marketplace of courses from third-party providers. Quality may vary.\
