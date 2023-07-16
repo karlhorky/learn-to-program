@@ -47,8 +47,12 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learn to code and help nonprofits at the same time\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js, Python)*
 
+#### [Vertabelo Academy](https://academy.vertabelo.com/)
+**Free** SQL courses with interactive exercises and quizzes\
+*(SQL, database concepts)*
+
 #### [The Odin Project](https://www.theodinproject.com)
-**Free** Beginner to intermediate full-stack curriculum with Ruby and JS learning paths.
+**Free** Beginner to intermediate full-stack courses with Ruby and JS learning paths\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
 #### [GitHub Skills](https://github.com/skills)
