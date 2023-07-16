@@ -28,15 +28,15 @@ This list aims to be a curated set of high quality educational resources. The av
 *(CSS)*
 
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
-**Freemium** Marketplace of courses from third-party providers. Quality may vary.\
+**Freemium** marketplace of courses from third-party providers - quality may vary\
 *(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
 
 #### [Code Avengers](https://www.codeavengers.com/)
-**Freemium** School-oriented learning platform for basic web and app development courses.\
+**Freemium** platform for basic web and app development courses\
 *(HTML, CSS, JavaScript)*
 
 #### [Shay Howe's Learn to Code HTML & CSS](https://learn.shayhowe.com/)
-**Free** Beginner to intermediate guides on web development.\
+**Free** beginner to intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
 
 #### [HTML Dog](https://www.htmldog.com/)
