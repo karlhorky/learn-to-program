@@ -40,19 +40,19 @@ This list aims to be a curated set of high quality educational resources. The av
 *(HTML, CSS, JavaScript)*
 
 #### [HTML Dog](https://www.htmldog.com/)
-**Free** Beginner and intermediate guides on web development.\
+**Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
 
 #### [freeCodeCamp](https://www.freecodecamp.org/)
-**Free** Learn to code. Build projects. Earn certifications. An open-source community of people who learn to code and help nonprofits.\
+**Free** learn to code and help nonprofits at the same time\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js, Python)*
 
 #### [The Odin Project](https://www.theodinproject.com)
 **Free** Beginner to intermediate full-stack curriculum with Ruby and JS learning paths.
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
-#### [GitHub Learning Lab](https://github.com/apps/github-learning-lab)
-**Free** Self-paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
+#### [GitHub Skills](https://github.com/skills)
+**Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
 
 #### [Grid Garden](https://cssgridgarden.com/)
