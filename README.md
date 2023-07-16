@@ -12,7 +12,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
 
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
-**Free** Interactive one-hour courses to learn the very basics of web development.\
+**Free** interactive 1-hour courses to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 
 #### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
