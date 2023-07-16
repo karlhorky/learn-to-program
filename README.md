@@ -28,7 +28,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(CSS)*
 
 #### Udemy [Programming](https://www.udemy.com/courses/search/?q=programming), [Development](https://www.udemy.com/courses/Development/)
-**Freemium** marketplace of courses from third-party providers - quality may vary\
+**Freemium** marketplace of courses from third party providers - quality may vary\
 *(HTML, CSS, JavaScript, Ruby, Rails, Python, iOS, Android)*
 
 #### [Code Avengers](https://www.codeavengers.com/)
