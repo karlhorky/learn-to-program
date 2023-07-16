@@ -52,11 +52,11 @@ This list aims to be a curated set of high quality educational resources. The av
 *(SQL, database concepts)*
 
 #### [The Odin Project](https://www.theodinproject.com)
-**Free** Beginner to intermediate full-stack courses with Ruby and JS learning paths\
+**Free** beginner to intermediate full-stack courses with Ruby and JS learning paths\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
 #### [GitHub Skills](https://github.com/skills)
-**Free** Self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
+**Free** self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
 *(Git, GitHub)*
 
 #### [Grid Garden](https://cssgridgarden.com/)
@@ -94,7 +94,7 @@ This list aims to be a curated set of high quality educational resources. The av
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
-**Free** Intermediate to advanced courses on how to program drawings, animations, games, and webpages and more advanced computer science topics.\
+**Free** intermediate to advanced courses on how to program drawings, animations, games and webpages and more advanced computer science topics\
 *(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 
 #### [Udacity](https://www.udacity.com/)
