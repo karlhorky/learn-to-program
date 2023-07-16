@@ -8,7 +8,7 @@ This list aims to be a curated set of high quality educational resources. The av
 ## Beginner
 
 #### [Codecademy](https://www.codecademy.com/)
-**Freemium** Interactive platform for learning to code in many different programming languages\
+**Freemium** platform for learning to code in many different programming languages\
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
 
 #### [Khan Academy's Hour of Code](https://www.khanacademy.org/hourofcode)
