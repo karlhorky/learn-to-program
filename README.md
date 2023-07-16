@@ -55,7 +55,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** SQL courses with interactive exercises and quizzes\
 *(SQL, database concepts)*
 
-#### [GitHub Learning Lab](https://lab.github.com/)
+#### [GitHub Skills](https://github.com/skills)
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
 
