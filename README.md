@@ -156,6 +156,10 @@ This list aims to be a curated set of high quality educational resources. The av
 #### [Level Up Tutorials](https://levelup.video/library)
 **Free** video tutorials for web developers and designers\
 *(HTML, CSS, JavaScript, React, Svelte, Vue, Node.js, GraphQL, TypeScript, Deno, GitHub, Figma, Ruby, Drupal, Magento, Wordpress)*
+
+### [CodeCrafters](https://codecrafters.io/)
+**Freemium** Recreate programming tools from scratch in any language.
+*(Go, Rust, Python, JavaScript, C++, Ruby, Haskell, C#, C, Java, PHP, Elixir, Crystal, Clojure, Zig, Nim)*
  
 ## Advanced
 
@@ -194,6 +198,10 @@ This list aims to be a curated set of high quality educational resources. The av
 #### [CodeSignal](https://codesignal.com/)
 **Free** programming challenges\
 *(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
+
+### [CodeCrafters](https://codecrafters.io/)
+**Freemium** Recreate programming tools from scratch in any language.
+*(Go, Rust, Python, JavaScript, C++, Ruby, Haskell, C#, C, Java, PHP, Elixir, Crystal, Clojure, Zig, Nim)*
 
 ## License
 
