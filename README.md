@@ -142,7 +142,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
 #### [CodinGame](https://www.codingame.com/)
-**Free** Learn to code and game at the same time.\
+**Free** Learn to code and game at the same time\
 *(C#, C++, Java, JavaScript, Python, Bash, C, Clojure, Dart, F#, Go, Groovy, Haskell, Lua, ObjectiveC, Pascal, Perl, PHP, Ruby, Rust, Scala, Swift, VB.NET)*
 
 #### [1 Million Women To Tech Summer of Code](https://github.com/1millionwomentotech/toolkitten/tree/master/summer-of-code)
@@ -176,7 +176,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
 #### [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
-**Free** university-level courses scoured from around the internet.\
+**Free** university-level courses scoured from around the internet\
 *(varied and extensive computer science topics, ...)*
 
 #### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)
