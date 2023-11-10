@@ -19,6 +19,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Freemium** platform for learning the basics of web development\
 *(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
 
+#### [Scaler Topics](https://www.scaler.com/topics/)
+**Free** Intractive programming tutorials\
+*(Java, Python, CSS, HTML, C&C++, Data base, SQl, DSA, etc.)*
+
 #### [Treehouse](https://teamtreehouse.com/)
 **Paid** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
