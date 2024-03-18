@@ -7,6 +7,10 @@ This list aims to be a curated set of high quality educational resources. The av
 
 ## Beginner
 
+####[CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science/)
+**Free** A beginner friendly Computer Science & Programming course straight from Havards available on Edx.
+*(Scratch, C, Python, SQL, JavaScript, CSS, HTML)*
+
 #### [Codecademy](https://www.codecademy.com/)
 **Freemium** platform for learning to code in many different programming languages\
 *(HTML, CSS, JavaScript, jQuery, Python, Ruby, Rails, PHP, C++, Java)*
