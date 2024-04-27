@@ -1,4 +1,5 @@
-# Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Learn to Program [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 #### Foundation in Web Development
 
 The Internet is filled with an ever-expanding number of courses, books and guides for programmers of all skill levels to improve their skills. Unfortunately, these resources are either hard to find or of low quality.
