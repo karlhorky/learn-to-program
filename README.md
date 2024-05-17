@@ -92,6 +92,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [Scaler](https://www.scaler.com/blog/)
+**Free** learning, tech updates, and career insights in the world of technology\
+*(Fullstack, Machine Learning, Data Science, DevOps, DSA)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
