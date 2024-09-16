@@ -57,7 +57,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
 #### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
-**Free** guides and documentations for front end web development from basics to advanced concepts\
+**Free** guides and documentation for front-end web development, from basic to advanced concepts.\
 *(HTML, CSS, JavaScript, etc.)*
 
 
