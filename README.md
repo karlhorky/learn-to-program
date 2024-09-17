@@ -58,7 +58,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 **Free** guides and documentation for front-end web development, from basic to advanced concepts.\
-*(HTML, CSS, JavaScript, etc.)*
+*(HTML, CSS, JavaScript, accessibility, performance, React, Ember, Vue, Svelte, Angular, Git, GitHub)*
 
 
 #### [GitHub Skills](https://github.com/skills)
