@@ -56,7 +56,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** beginner to intermediate full-stack courses with Ruby and JS learning paths\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
-#### [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+#### [MDN Learning Area](https://developer.mozilla.org/en-US/docs/Learn)
 **Free** guides on fundamental web development concepts\
 *(HTML, CSS, JavaScript, accessibility, performance, React, Ember, Vue, Svelte, Angular, Git, GitHub)*
 
