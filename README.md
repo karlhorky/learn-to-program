@@ -166,7 +166,6 @@ This list aims to be a curated set of high quality educational resources. The av
 #### [Level Up Tutorials](https://levelup.video/library)
 **Free** video tutorials for web developers and designers\
 *(HTML, CSS, JavaScript, React, Svelte, Vue, Node.js, GraphQL, TypeScript, Deno, GitHub, Figma, Ruby, Drupal, Magento, Wordpress)*
-
  
 ## Advanced
 
