@@ -70,7 +70,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(CSS)*
 
 #### [Flexbox Froggy](https://flexboxfroggy.com/)
-**Free** game that teaches the CSS Flexbox in interesting way\
+**Free** game that teaches the CSS Flexbox\
 *(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
