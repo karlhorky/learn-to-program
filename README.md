@@ -60,7 +60,6 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** guides and documentation for front-end web development, from basic to advanced concepts.\
 *(HTML, CSS, JavaScript, accessibility, performance, React, Ember, Vue, Svelte, Angular, Git, GitHub)*
 
-
 #### [GitHub Skills](https://github.com/skills)
 **Free** self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
 *(Git, GitHub)*
