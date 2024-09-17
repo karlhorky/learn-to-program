@@ -56,12 +56,20 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** beginner to intermediate full-stack courses with Ruby and JS learning paths\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
+#### [MDN Learning Area](https://developer.mozilla.org/en-US/docs/Learn)
+**Free** guides on fundamental web development concepts\
+*(HTML, CSS, JavaScript, accessibility, performance, React, Ember, Vue, Svelte, Angular, Git, GitHub)*
+
 #### [GitHub Skills](https://github.com/skills)
 **Free** self paced, interactive projects to learn Git and GitHub, created and maintained by GitHub's training team\
 *(Git, GitHub)*
 
 #### [Grid Garden](https://cssgridgarden.com/)
 **Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
+
+#### [Flexbox Froggy](https://flexboxfroggy.com/)
+**Free** game that teaches the CSS Flexbox\
 *(CSS)*
 
 #### [Hexlet.io](https://en.hexlet.io)
