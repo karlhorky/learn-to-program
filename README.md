@@ -204,7 +204,7 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** programming challenges\
 *(Java, C++, Python, JavaScript, Ruby, C#, PHP and Perl)*
 
-### [CodeCrafters](https://codecrafters.io/)
+#### [CodeCrafters](https://codecrafters.io/)
 **Freemium** recreate programming tools from scratch in any language\
 *(Go, Rust, Python, JavaScript, C++, Ruby, Haskell, C#, C, Java, PHP, Elixir, Crystal, Clojure, Zig, Nim)*
 
