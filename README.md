@@ -16,6 +16,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** interactive 1-hour courses to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 
+#### [LabEx](https://labex.io)
+**Freemium** platform for learning to code with hands-on labs and AI\
+*(Python, Go, Java, C++, C, HTML, CSS, JavaScript)*
+
 #### [UpLeveled Bootcamp Prep Course](https://learn.upleveled.io/)
 **Freemium** platform for learning the basics of web development\
 *(HTML, CSS, JavaScript, Node.js, Git, GitHub)*
