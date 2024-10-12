@@ -130,6 +130,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** crowdsourced mentorship platform of programming exercises and code reviews\
 *(Clojure, CoffeeScript, C++, C#, Elixir, Erlang, F#, Go, Haskell, JavaScript, Common Lisp, Lua, Objective-C, OCaml, Perl 5, PL/SQL, Python, Ruby, Scala, Swift)*
 
+#### [LabEx](https://labex.io)
+**Freemium** hands-on tech skills labs in virtual environments, supported by an AI study assistant\
+*(Linux, Docker, DevOps, Python, Data Science, Machine Learning, Go, Java, C, C++, HTML, CSS, JavaScript, React)*
+
 #### [PluralSight](https://www.pluralsight.com/browse)
 **Paid** platform for courses in web development, software development, security and more\
 *(HTML, CSS, JavaScript, React, AngularJS, Java, SQL)*
@@ -170,7 +174,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [MIT OpenCourseWare](https://ocw.mit.edu/search/?t=Computer%20Science)
 **Free** courses from MIT on advanced computer science topics\
-*(varied and extensive computer science topics, C, C++, ..)*
+*(varied and extensive computer science topics, C, C++)*
 
 #### [edX](https://www.edx.org/learn/computer-programming)
 **Free** courses from Harvard, MIT, and other universities\
