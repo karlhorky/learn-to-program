@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [Some Assembly Required](https://github.com/hackclub/some-assembly-required)
+**Free** an approachable introduction to Assembly and the lowest levels of your computer.\
+*(Assembly)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
