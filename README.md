@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [Boot.Dev](https://www.boot.dev/)
+**Freemium** gamified online learning platform for learning back-end web development\
+*(Backend Web Development, Python, Go, SQL, Git, Unix Shell, algorithms, cryptography, Docker, Kubernetes, JavaScript)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
