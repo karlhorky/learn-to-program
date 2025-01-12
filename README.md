@@ -118,6 +118,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** online book covering all stages of creating a Ruby on Rails application\
 *(HTML, CSS, JavaScript, Ruby, Rails)*
 
+#### [Chris Oliver's Go Rails](https://gorails.com/)
+**Free** Online Ruby on Rails Tutorial. Starts with essential ruby, then SQL, and finally Rails
+*(HTML, CSS, Ruby, Rails, SQL)*
+
 #### LinkedIn Learning: [Web Development](https://www.linkedin.com/learning/topics/web-development), [Web Design](https://www.linkedin.com/learning/topics/web-design)
 **Paid** platform for video courses on web development and design\
 *(HTML, CSS, JavaScript, web development, web design)*
