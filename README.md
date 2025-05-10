@@ -107,7 +107,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(HTML, CSS, JavaScript, SQL, algorithms, cryptography)*
 
 #### [Udacity](https://www.udacity.com/)
-**Free** platform for computer science and web development courses\
+**Freemium** platform for computer science and web development courses\
 *(HTML, CSS, JavaScript, data science, Python, computer science topics)*
 
 #### [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
