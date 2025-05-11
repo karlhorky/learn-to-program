@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [CodeKidz](https://codekidz.ai/)
+**Freemium** platform for learning with an AI tutor and gamified content\
+*(Python, C/C++, AI, Machine Learning, HTML, CSS, JavaScript, Game Development)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
