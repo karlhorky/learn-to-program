@@ -48,6 +48,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learn to code and help nonprofits at the same time\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js, Python)*
 
+#### [Libre Academy](https://libre.academy/)
+**Free** open-source platform where you write real code, graded instantly by hidden tests — in the browser or a desktop app\
+*(Rust, Python, JavaScript, TypeScript, Go, Zig, C, C++, and 26 languages total)*
+
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **Free** SQL courses with interactive exercises and quizzes\
 *(SQL, database concepts)*
