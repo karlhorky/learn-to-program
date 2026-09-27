@@ -101,7 +101,7 @@ This list aims to be a curated set of high quality educational resources. The av
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
 #### [Programming for Lovers](https://programmingforlovers.com/)
-**Free** introductory programming course from Carnegie Mellon with code-alongs built around scientific problems, no account needed\
+**Free** introductory programming course with code-alongs built around scientific problems, no account needed\
 *(Python, Go, algorithms, simulation)*
 
 ## Intermediate
