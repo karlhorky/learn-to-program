@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [Programming for Lovers](https://programmingforlovers.com/)
+**Free** introductory programming course with code-alongs built around scientific problems, no account needed\
+*(Python, Go, algorithms, simulation)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
