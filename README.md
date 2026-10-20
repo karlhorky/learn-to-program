@@ -96,6 +96,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Freemium** interactive platform for learning data science\
 *(Python, R, SQL, Power BI, ChatGPT)*
 
+#### [Coddy](https://coddy.tech/)
+**Freemium** interactive platform with short coding lessons and an AI tutor, plus free online playgrounds\
+*(Python, JavaScript, Java, C++, SQL, HTML, CSS, and 20+ more)*
+
 #### [Developer Roadmaps](https://roadmap.sh/)
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
