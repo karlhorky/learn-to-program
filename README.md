@@ -44,6 +44,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** beginner and intermediate guides on web development\
 *(HTML, CSS, JavaScript)*
 
+#### [WebCheatSheet](https://webcheatsheet.com/)
+**Free** written tutorials and practical references for web development and SQL\
+*(HTML, JavaScript, PHP, SQL)*
+
 #### [freeCodeCamp](https://www.freecodecamp.org/)
 **Free** learn to code and help nonprofits at the same time\
 *(HTML, CSS, JavaScript, Databases, Git & GitHub, Node.js, React.js, D3.js, Python)*
