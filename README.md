@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [Indentwise](https://learn.steadypathcompany.com/?utm_source=directory&utm_medium=listing&utm_campaign=acq_2026-11&utm_content=learn-to-program)
+**Freemium** free Beginner lessons that run in the browser, with code checks and no sign-up; Intermediate and Advanced are paid\
+*(Python, JavaScript)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
