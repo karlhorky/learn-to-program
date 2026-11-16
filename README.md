@@ -102,7 +102,7 @@ This list aims to be a curated set of high quality educational resources. The av
 
 #### [Indentwise](https://learn.steadypathcompany.com/?utm_source=directory&utm_medium=listing&utm_campaign=acq_2026-11&utm_content=learn-to-program)
 **Freemium** free Beginner lessons that run in the browser, with code checks and no sign-up; Intermediate and Advanced are paid\
-*(Python, JavaScript)*
+*(Python, JavaScript, SQL)*
 
 ## Intermediate
 
