@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [The Work Gym](https://theworkgym.com/)
+**Freemium** practice site where every exercise runs in a browser copy of the tool and is checked when you finish; the first unit of each course is free\
+*(Python, SQL, JavaScript, TypeScript, Java, Go, C#, C++, Git, Linux)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
