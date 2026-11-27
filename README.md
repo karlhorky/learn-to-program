@@ -100,6 +100,10 @@ This list aims to be a curated set of high quality educational resources. The av
 **Free** learning roadmap guides with links to educational content\
 *(Fullstack, UX Design, Cyber Security, Computer Science, Blockchain, DevOps, PostgreSQL)*
 
+#### [Bugbound: Learn to Code] (https://www.bugbound.app/)
+**Freemium** Pixel-art adventure: every door is a real program to write and test from beginner to advanced.
+*(C, Python, JavaScript, TypeScript)*
+
 ## Intermediate
 
 #### Khan Academy [Computer Programming](https://www.khanacademy.org/computing/computer-programming), [Computer Science](https://www.khanacademy.org/computing/computer-science)
